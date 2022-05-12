@@ -1,2 +1,2 @@
 # aluraplus
-Exercício proposto nas aulas de HTML e CSS da Alura 
+(FrontEnd) Exercício proposto nas aulas de HTML e CSS da Alura 
